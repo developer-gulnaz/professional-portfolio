@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is a clean and responsive personal portfolio website built using **HTML**, **CSS/SCSS**, **Bootstrap**, and **JavaScript**. It showcases professional information, skills, projects, and includes a contact form UI (backend integration in progress).
+This is a clean and responsive personal portfolio website built using **HTML**, **CSS/SCSS**, **Bootstrap**, and **JavaScript**. It showcases professional information, skills, and includes a fully functional contact form powered by Formspree for email handling.
 
 ---
 
@@ -11,8 +11,7 @@ The website is designed to reflect a professional online presence with sections 
 - Home / Hero Section  
 - About Me  
 - Skills & Tech Stack  
-- Projects Showcase  
-- Contact Form (UI only – backend to be added)  
+- Contact Form (fully functional)  
 
 The design focuses on responsiveness, user experience, and clean modern aesthetics.
 
@@ -24,6 +23,7 @@ The design focuses on responsiveness, user experience, and clean modern aestheti
 - **CSS3 / SCSS**  
 - **Bootstrap 5**  
 - **JavaScript (ES6)**  
+- **Formspree (for email sending in contact form)**
 
 ---
 
@@ -33,6 +33,7 @@ The design focuses on responsiveness, user experience, and clean modern aestheti
 - Smooth scroll and minimal animations  
 - Dark theme color scheme aligned with personal branding  
 - Bootstrap utilities for quick layout and styling  
+- Functional contact form with instant email notifications
 
 ---
 
@@ -43,9 +44,6 @@ The design focuses on responsiveness, user experience, and clean modern aestheti
 git clone https://github.com/developer-gulnaz/professional-portfolio.git
 Open in Browser
 Just open index.html in your browser. No build tools or backend setup required.
-
-🔧 Work in Progress
-PHP integration for contact form handling
 
 
 📬 Contact
